@@ -18,7 +18,7 @@ Kelompok 2
 # Cara Penggunaan
 Alat dan bahasa pemrograman yang digunakan
 - Aplikasi PyCharm
-- Bahasa pemrograman python
+- Bahasa pemrograman Python
 
 Package yang dibutuhkan Face Recognition SVM
 - open-cv
@@ -38,4 +38,4 @@ Package yang dibutuhkan Digit Recognition
 - pillow
 - win32gui
 
-Setelah semua program di tuliskan dan mengimport packagenya, selanjutnya melakukan pengujian terhadap programnya dengan menekan menu run.
+Setelah semua program di tuliskan dan mengimport packagenya, selanjutnya melakukan pengujian terhadap programnya dengan menekan menu Run.
