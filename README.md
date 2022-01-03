@@ -1,6 +1,6 @@
 # Kelompok2SVM
 
-Nama Anggota Kelompok 2
+Kelompok 2
 - F55120013 Fadhilah Lamangkona 
 - F55120016 Imam Zaid Azizi 
 - F55120033 M. Fahril 
@@ -15,5 +15,6 @@ Nama Anggota Kelompok 2
 - F55120111 Wulan Maharani 
 - F55120119 Andika Dwiyanto 
 
+# Cara Penggunaan
 
 
