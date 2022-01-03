@@ -16,5 +16,27 @@ Kelompok 2
 - F55120119 Andika Dwiyanto 
 
 # Cara Penggunaan
+Alat dan bahasa pemrograman yang digunakan
+- Aplikasi PyCharm
+- Bahasa pemrograman python
 
+Package yang dibutuhkan
+- Face recognition SVM
+  open-cv
+  numpy
+  matplotlib
+  os
+  sklearn
+  skimage
+  itertools
 
+- Digit recognition
+  tensorflow
+  utils
+  backend
+  tkinter
+  numpy
+  pillow
+  win32gui
+
+Setelah semua program di tuliskan dan mengimport packagenya, selanjutnya melakukan pengujian terhadap programnya dengan menekan menu run.
