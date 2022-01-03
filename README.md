@@ -1,16 +1,19 @@
 # Kelompok2SVM
 
 Nama Anggota Kelompok 2
-- Fadhilah Lamangkona F55120013
-- Imam Zaid Azizi F55120016
-- M. Fahril F55120033
-- Faldiansyah F55120028
-- Alimudin Tantu F55120044
-- Lena Kerianti F55120046
-- Ade Gaffur F55120052
-- Putri Aisyah Ngitung F55120053
-- Muh. Fitrah Ramadhan F55120081
-- Andika Dwiyanto F55120119
-- Sharkia Amalia F55120105
-- A. Avri Iswandi F55120090
-- Wulan Maharani F55120111
+- F55120013 Fadhilah Lamangkona 
+- F55120016 Imam Zaid Azizi 
+- F55120033 M. Fahril 
+- F55120028 Faldiansyah 
+- F55120044 Alimudin Tantu 
+- F55120046 Lena Kerianti 
+- F55120052 Ade Gaffur 
+- F55120053 Putri Aisyah Ngitung 
+- F55120081 Muh. Fitrah Ramadhan 
+- F55120090 A. Avri Iswandi 
+- F55120105 Sharkia Amalia 
+- F55120111 Wulan Maharani 
+- F55120119 Andika Dwiyanto 
+
+
+
