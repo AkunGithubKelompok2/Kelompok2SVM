@@ -20,7 +20,7 @@ Alat dan bahasa pemrograman yang digunakan
 - Aplikasi PyCharm
 - Bahasa pemrograman python
 
-Package yang dibutuhkan face recognition SVM
+Package yang dibutuhkan Face Recognition SVM
 - open-cv
 - numpy
 - matplotlib
@@ -29,7 +29,7 @@ Package yang dibutuhkan face recognition SVM
 - skimage
 - itertools
 
-Package yang dibutuhkan digit recognition
+Package yang dibutuhkan Digit Recognition
 - tensorflow
 - utils
 - backend
