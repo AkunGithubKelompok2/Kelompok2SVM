@@ -1,7 +1,7 @@
 # Kelompok2SVM
 
 Nama Anggota Kelompok 2
--Fadhilah Lamangkona F55120013
+- Fadhilah Lamangkona F55120013
 -Imam Zaid Azizi F55120016
 -M. Fahril F55120033
 -Faldiansyah F55120028
